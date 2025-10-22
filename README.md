@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Android app developer from Bangladesh</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=k-m-hassanappdev" alt="k-m-hassanappdev" /></a> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hassansoftware25" alt="hassansoftware25" /></a> </p>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/k-m-hassanappdev/devhassan/blob/main/gif3.gif">
 - 🌱 I’m currently learning **App Development, exploring frameworks, courses, and building skills in Java & Kotlin.**
