@@ -1,7 +1,8 @@
-<a align="center" href="https://github.com/your-username">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=K.+M.+Hassan"
-       alt="K. M. Hassan" />
+<a align="center" href="https://www.linkedin.com/in/your-linkedin/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&size=28&duration=3000&color=000000&lines=Hi%20I%27m%20K.%20M.%20Hassan"
+       alt="Hi I'm K. M. Hassan" />
 </a>
+
 
 <!-- <h1 align="center">Hi 👋, I'm K. M. HASSAN</h1> -->
 <h3 align="center">A passionate Android app developer from Bangladesh</h3>
