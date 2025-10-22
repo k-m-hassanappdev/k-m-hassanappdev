@@ -1,7 +1,8 @@
 <a align="center" href="https://www.linkedin.com/in/your-linkedin/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&size=28&duration=3000&color=4CAF50&lines=Hi%20I%27m%20K.%20M.%20Hassan"
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&size=28&duration=3000&color=00BFFF&lines=Hi%20I%27m%20K.%20M.%20Hassan"
        alt="Hi I'm K. M. Hassan" />
 </a>
+
 
 
 
