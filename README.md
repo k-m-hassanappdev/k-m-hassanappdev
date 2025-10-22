@@ -12,11 +12,11 @@
 
 - 🌱 I’m currently learning **Kotlin & Java**
 
-- 👯 I’m looking to collaborate on **I’m looking to collaborate on demo Android native projects to enhance my skills and gain real-world experience.**
+<!-- - 👯 I’m looking to collaborate on **I’m looking to collaborate on demo Android native projects to enhance my skills and gain real-world experience.**-->
 
-- 👨‍💻 All of my projects are available at [on my PC and ready to showcase.](on my PC and ready to showcase.)
+<!-- - 👨‍💻 All of my projects are available at [on my PC and ready to showcase.](on my PC and ready to showcase.)-->
 
-- 📝 I regularly write articles on [App Development](App Development)
+<!-- - 📝 I regularly write articles on [App Development](App Development)-->
 
 - 💬 Ask me about **Android , Programming**
 
