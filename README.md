@@ -22,7 +22,7 @@
 
 - 📄 Know about my experiences [https://www.facebook.com/share/16KgCRNP1y/](https://www.facebook.com/share/16KgCRNP1y/)
 
-- ⚡ Fun fact **Java & Kotlin enthusiast, always coding and learning!**
+- ⚡ Fun fact **I turn ideas into Android apps! 💻📱**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
