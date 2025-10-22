@@ -10,8 +10,6 @@
 
 - 👯 I’m looking to collaborate on **I’m looking to collaborate on demo Android native projects to enhance my skills and gain real-world experience.**
 
-- 🤝 I’m looking for help with **Seeking guidance and collaboration in App Development.**
-
 - 👨‍💻 All of my projects are available at [on my PC and ready to showcase.](on my PC and ready to showcase.)
 
 - 📝 I regularly write articles on [App Development](App Development)
