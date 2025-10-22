@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [App Development](App Development)
 
-- 💬 Ask me about **App Development, Java, and Kotlin – happy to share what I’m learning!**
+- 💬 Ask me about **Android , Programming**
 
 - 📫 How to reach me **k.m.hassan2580@gmail.com**
 
