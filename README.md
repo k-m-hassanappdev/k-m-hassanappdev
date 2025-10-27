@@ -10,6 +10,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://github.com/k-m-hassanappdev/devhassan/blob/main/gif3.gif">
 
+- 🎓 **Computer Science Student**  
+
 - 🌱 I’m currently learning **Kotlin & Java**
 
 <!-- - 👯 I’m looking to collaborate on **I’m looking to collaborate on demo Android native projects to enhance my skills and gain real-world experience.**-->
