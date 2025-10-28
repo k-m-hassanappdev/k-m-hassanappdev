@@ -6,7 +6,8 @@
 <h3 align="center">A passionate developer from Bangladesh</h3>
 <!-- <h1 align="center">Hi 👋, I'm K. M. HASSAN</h1> -->
 <!-- <h3 align="center">A passionate Android app developer from Bangladesh</h3> -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=k-m-hassanappdev&label=Profile%20views&color=0e75b6&style=flat" alt="k-m-hassanappdev" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=k-m-hassanappdev&label=Profile%20views&color=0e75b6&style=flat" alt="k-m-hassanappdev" /> </p> -->
+<p align="left"> <img src="https://visitor-badge.laobi.icu/badge?page_id=k-m-hassanappdev.k-m-hassanappdev&left_color=tomato&right_color=yellow&left_text=Profile%20Views" /> </p>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/k-m-hassanappdev/devhassan/blob/main/gif3.gif">
 
